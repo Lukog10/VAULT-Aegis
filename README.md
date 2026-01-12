@@ -242,10 +242,6 @@ This is a refactored codebase. Original functionality preserved.
 2. No code changes needed
 3. Restart application
 
-## 📄 License
-
-Same as original VAULT project.
-
 ## 🔗 Related Files
 
 - **REFACTORING_SUMMARY.md** - Detailed technical overview
